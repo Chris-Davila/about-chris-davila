@@ -1,0 +1,11 @@
+body {
+    background-image: url("images/red-chilli-pepper-wallpaper.jpg");
+}
+.p1 {
+    padding-top: 10px;
+    line-height: 25px;
+    padding-bottom: 10px;
+}
+.side {
+    display: inline-block;
+}
